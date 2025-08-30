@@ -21,7 +21,7 @@ The filter will automatically apply a label and archive emails from specific sen
 
 1.  Open Gmail and click the "Show search options" icon (the sliders) in the search bar.
 2.  In the "From" field, enter your school email addresses using the `OR` operator, for example:
-    `from:("kidschool1.com") OR from:(@kidschool2.org)`
+    `from:(kidschool1.com) OR from:(@kidschool2.org)`
 3.  Click "Create filter" at the bottom right.
 4.  In the next window, check these two boxes:
     - `[ ] Skip the Inbox (Archive it)`
