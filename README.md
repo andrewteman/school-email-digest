@@ -47,6 +47,8 @@ This script will read the labeled emails, summarize them with Gemini, and send y
     - Set the time-based trigger to "Day timer" and choose a time that works for you.
 6.  Click "Save." The first time you do this, you will be prompted to authorize the script. Follow the steps to grant it the necessary permissions.
 
+Each day, at the time you have chosen in your script trigger, you will get a single, concise digest email summarizing all of the school communications from the day. And if you want, you can go read the full emails by searching for the "School Digest" label.
+
 ## Security and Disclaimer
 
 This script requires access to your Gmail account to read, send, and archive emails. Please review the code to ensure you are comfortable with the permissions you are granting. Your Gemini API key is a personal credential; please do not share it.
